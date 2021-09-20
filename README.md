@@ -1,0 +1,1 @@
+This is Sakurai's first git project
